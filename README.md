@@ -1,10 +1,10 @@
-# Hi there 👋
+# Good evening, folks 🌟 
 
 > Looking for people who treat programming as something more than just work
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alebabai/)
 
-## About Me
+## About Me 🚀
 
 ```yaml
 me:
