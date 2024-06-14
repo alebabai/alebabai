@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hi there 👋
 
-<!--
-**alebabai/alebabai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Looking for people who treat programming as something more than just work
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alebabai/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me 👨🏼‍💻
+
+```yaml
+me:
+  name: Alexander Babai
+  years_of_experience: 8
+  current_position: Senior Software Engineer
+  top_skills:
+    - Go
+    - Java
+    - Kubernetes
+    - Microservices
+    - Software Architecture
+```
