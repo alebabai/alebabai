@@ -1,4 +1,4 @@
-# Good evening, lads 🥃 
+# Good evening, lads ﹏𓊝﹏
 
 > Looking for people who treat programming as something more than just work
 
