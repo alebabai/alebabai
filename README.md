@@ -1,4 +1,4 @@
-# Good morning, lads 🌟 
+# Good evening, lads 🥃 
 
 > Looking for people who treat programming as something more than just work
 
